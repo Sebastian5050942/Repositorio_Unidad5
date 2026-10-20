@@ -1,3 +1,3 @@
-Clase 15 de Octubre / 2026
+Clase 20 de Octubre / 2026
 
 
