@@ -100,6 +100,8 @@ with open("notas.csv","r") as csvfile:
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/ab261fb2-cc2e-4476-86dd-43c6f7565d23" />
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9de792f5-e68c-4932-b20b-28275ddcc9e5" />
 
+# Clase 27 de Octubre / 2026
+
 
 
 
