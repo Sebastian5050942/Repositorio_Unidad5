@@ -102,7 +102,23 @@ with open("notas.csv","r") as csvfile:
 
 # RETO Unidad 5
 
+# Codigó VSC:
 
+```python
+import csv
+
+with open("notas.csv","r") as csvfile:
+    print(csvfile)
+    lector = csv.reader(csvfile, delimiter= ';')
+    print(lector)
+    encabezado = next
+    for dato in lector:
+        print(dato)
+```
+
+# Link de Video - Sustentación:
+
+https://youtu.be/3F0MJ08m4ts?si=rQefdKJl1uQy1193
 
 
 
