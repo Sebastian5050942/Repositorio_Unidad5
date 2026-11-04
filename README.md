@@ -102,6 +102,8 @@ with open("notas.csv","r") as csvfile:
 
 # RETO Unidad 5
 
+[Ver video](C:\Users\Usuario\Downloads)
+
 
 
 
