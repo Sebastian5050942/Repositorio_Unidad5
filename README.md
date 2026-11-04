@@ -102,7 +102,7 @@ with open("notas.csv","r") as csvfile:
 
 # RETO Unidad 5
 
-[![Reproducir video de sustentación](Imagenes/portada_video.png)](https://drive.google.com/file/d/1dbJN5dsDUZjbuTmKrUlE3zhtd72YFNH0/view)
+
 
 
 
